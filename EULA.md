@@ -1,6 +1,6 @@
 # End User License Agreement (EULA) v1
 
-## Effective Date [October 26, 2023]
+### Effective Date [October 26, 2023]
 
 This End User License Agreement ("EULA" or “Agreement”) is a legal agreement between you ("User" or "You") and Proximity Labs Limited (“Proximity Labs Limited” or "Company"). By downloading, installing, or using the software and associated documentation files (the "Software"), you agree to be bound by the terms and conditions of this EULA. If you do not agree to these terms, you must not use the Software. If you fail to comply with the following terms or if you engage in activities in violation of the terms of this agreement, your license to the Software is immediately terminated.
 
