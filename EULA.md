@@ -6,7 +6,7 @@ This End User License Agreement ("EULA" or “Agreement”) is a legal agreement
 
 ### License
 
-Subject to your compliance with these terms and conditions, Company grants you a perpetual, royalty-free, non-exclusive, non-transferable license to use the Software, solely for your personal, non-commercial purposes. In addition to the terms and conditions contained in this agreement, the Software is also licensed to you under GPLv3. The GPLv3 license is available at this link. By downloading and/or using the Software you agree to adhere to the terms and conditions in the GPLv3 license.
+Subject to your compliance with these terms and conditions, Company grants you a perpetual, royalty-free, non-exclusive, non-transferable license to use the Software, solely for your personal, non-commercial purposes. In addition to the terms and conditions contained in this agreement, the Software is also licensed to you under GPLv3. The GPLv3 license is available at [this link](https://github.com/NearDeFi/bos-apps-examples/blob/main/LICENSE.md). By downloading and/or using the Software you agree to adhere to the terms and conditions in the GPLv3 license.
 The Software may make use of certain components from both the Tauri project and Electron project, collectively, the “Other Software.” The Other Software is licensed under separate terms and conditions, as well as restrictions, such as MIT or MIT/Apache 2.0 where applicable for components from the Tauri project and MIT for components from the Electron project, that you the user are responsible for complying with. Company reserves all rights in the Software (excluding the Other Software) not expressly granted to you here.
 
 ### Restrictions
