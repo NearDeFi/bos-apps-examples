@@ -1,6 +1,6 @@
 # Native Apps for Blockchain Opearting System (BOS) Gateways
 
-This repository hosts sample applications for opeating a BOS gateway in a local environment, as a native app for Windows, MacOS, and Linux. 
+This repository hosts sample applications for operating a BOS gateway in a local environment, as a native app for Windows, MacOS, and Linux. 
 
 These applications are intended exclusively for demonstration and should be used in accordance with the [End User License Agreement (EULA)](EULA.md).
 
